@@ -1,5 +1,5 @@
 # Machine Learning Course | IEEE CIS JU
-Machine Learning Course | IEEE Computational Intelligence Society University of Jordan Student Branch Chapter
+Machine Learning Course | IEEE Computational Intelligence Society University of Jordan Student Branch Chapter.
 <br />
 Instructor: Abdel Rahman AlSabbagh.
 <br />
